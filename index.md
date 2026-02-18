@@ -5,7 +5,7 @@
 
 These link to Microsoft Sharepoint PowerPoint files. Feel free to copy and modify as needed.
 
-\[\int_a^b f(x) dx\]
+$\int_a^b f(x) dx$
 
 # Introduction to Definite Integral
 
