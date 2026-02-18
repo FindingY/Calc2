@@ -1,10 +1,7 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com"></script>
-
 ---
     title: "Calculus 2 Slides"
     layout: "simple"
 ---
-{{< katex >}}
 
 These link to Microsoft Sharepoint PowerPoint files. Feel free to copy and modify as needed.
 
